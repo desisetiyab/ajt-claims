@@ -1,0 +1,5 @@
+{
+  "name": "AJT Claims Portal",
+  "description": "An intelligent claims submission portal for employees to submit personal and vendor claims. It uses AI to automatically extract details from uploaded receipts and invoices.",
+  "requestFramePermissions": []
+}
